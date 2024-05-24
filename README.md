@@ -6,3 +6,31 @@
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 This repository contains the source codes for design of various combinational and sequential circuits using logic gates and componenets written in VHDL using Xilinx (14.7), which were practiced as a part of my Computer Architecture Lab during my 4th semester.
+
+## Programs List
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/uiuxarghya/PCC-CS494
+```
+
+Go to the project directory
+
+```bash
+  cd PCC-CS494
+```
+
+## Feedback
+
+Any suggestions and/or improvements are welcome. Please create a pull request or open an issue to submit your feedback.
+
+## Authors
+
+- [@uiuxarghya](https://www.github.com/uiuxarghya)
+  
+## License
+
+[MIT](./LICENSE)
