@@ -14,13 +14,13 @@ This repository contains the source codes for design of various combinational an
 Clone the project
 
 ```bash
-  git clone https://github.com/uiuxarghya/PCC-CS494
+  git clone https://github.com/uiuxarghya/PCC-CS492
 ```
 
 Go to the project directory
 
 ```bash
-  cd PCC-CS494
+  cd PCC-CS492
 ```
 
 ## Feedback
