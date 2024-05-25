@@ -11,8 +11,9 @@ This repository contains the source codes for design of various combinational an
 | Group  | Files | Link  |
 |---|---|---|
 | Basic Gates | AND, OR, NAND  |   |
-|   |   |   |
-|   |   |   |
+| Adders  | Half Adder, Full Adder, Full using Half Adder, 4 bit Adder, 8 bit Adder |   |
+| Subtractors  | Half Subtractor, Full Subtractor, Full using Half Subtractor, 4 bit Subtractor, 8 bit Subtractor  |   |
+|  |  |
 
 ## Run Locally
 
