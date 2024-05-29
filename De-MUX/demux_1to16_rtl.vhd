@@ -4,7 +4,7 @@
 -- 
 -- Create Date:    21:50:44 05/29/2024 
 -- Design Name: 
--- Module Name:    demux_16to1_rtl - Behavioral 
+-- Module Name:    demux_1to16_rtl - Behavioral 
 -- Project Name: 
 -- Target Devices: 
 -- Tool versions: 
