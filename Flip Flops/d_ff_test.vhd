@@ -86,7 +86,7 @@ BEGIN
    -- Stimulus process
    stim_proc: process
    begin		
-      Reset<='1';
+    Reset<='1';
 		wait for 2 ps;
 		
 		D<='0';
