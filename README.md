@@ -1,7 +1,7 @@
 # Computer Architecture Lab (PCC-CS492)
 
 ![VHDL](https://img.shields.io/badge/VHDL-informational?style=flat&logo=VHDL&logoColor=white&color=007396)
-![Xilinx](https://img.shields.io/badge/Xilinx-14.7-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZWUzMTI0Ij4KICA8dGl0bGU+WGlsaW54PC90aXRsZT4KICA8cGF0aAogICAgZD0ibTggMTggNS4yNDEgNkg1LjU4NkwuMzQ1IDE4bDUuMjQxLTZMLjM0NSA2bDUuMjQxLTZoNy42NTVMOCA2bDUuMjQxIDZMOCAxOHpNMjMuNjU1IDBIMTMuMjQxbDUuMjQxIDYgNS4xNzMtNnpNMTMuMjQxIDI0aDEwLjQxNGwtNS4xNzItNi01LjI0MiA2eiIgLz4KPC9zdmc+&logoColor=white&color=ee3124)
+![Xilinx](https://img.shields.io/badge/XILINX-14.7-informational?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjZWUzMTI0Ij4KICA8dGl0bGU+WGlsaW54PC90aXRsZT4KICA8cGF0aAogICAgZD0ibTggMTggNS4yNDEgNkg1LjU4NkwuMzQ1IDE4bDUuMjQxLTZMLjM0NSA2bDUuMjQxLTZoNy42NTVMOCA2bDUuMjQxIDZMOCAxOHpNMjMuNjU1IDBIMTMuMjQxbDUuMjQxIDYgNS4xNzMtNnpNMTMuMjQxIDI0aDEwLjQxNGwtNS4xNzItNi01LjI0MiA2eiIgLz4KPC9zdmc+&logoColor=white&color=ee3124)
 ![Ubuntu 22.10](https://img.shields.io/badge/Ubuntu-22.10-informational?style=flat&logo=ubuntu&logoColor=E95420&color=E95420)
 ![GitHub last commit](https://img.shields.io/github/last-commit/uiuxarghya/PCC-CS492?label=Last%20Updated)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
